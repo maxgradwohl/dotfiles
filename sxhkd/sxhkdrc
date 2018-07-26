@@ -20,7 +20,7 @@ XF86AudioLowerVolume
 
 # terminal emulator
 super + Return
-	urxvt
+    termite	
 
 # program launcher
 super + d
