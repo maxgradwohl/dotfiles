@@ -40,7 +40,7 @@ font-4 = DejaVuSans:size=11;3
 
 modules-left = i3
 modules-center =
-modules-right = showspotify xbacklight volume battery date powermenu
+modules-right = showspotify xbacklight volume battery date
 
 separator = /
 

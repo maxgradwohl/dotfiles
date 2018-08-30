@@ -183,3 +183,5 @@ bindsym $mod+shift+x exec betterlockscreen -l blur
 
 # Polybar init
 exec_always --no-startup-id ~/.config/polybar/launch.sh
+
+exec --no-startup-id nm-applet
