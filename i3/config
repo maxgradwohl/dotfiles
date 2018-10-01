@@ -155,7 +155,7 @@ client.focused_inactive $inactive-bg-color $inactive-bg-color $inactive-text-col
 client.urgent $urgent-bg-color $urgent-bg-color $text-color #00ff00
 
 # Rofi for launching programs
-bindsym $mod+d exec rofi -show run -config ~/.config/rofi
+bindsym $mod+d exec rofi -show run 
 
 # GAPS
 for_window [class="^.*"] border pixel 0
